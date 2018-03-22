@@ -16,7 +16,7 @@ A  business card holder designed by Chloe Madison (@clomads) from a 3D model tha
 
 ## Fusion 360 Parametric 3D Model
 
-(LINK HERE PLZ)
+(http://a360.co/2G56mrX)[http://a360.co/2G56mrX]
 
 The Fusion 360 file is the original source design from Chloe Madison. Parametric design allows you to see how it was made and make prefered changes along the way. If you just want to 3D print the model, read the next section.
 
