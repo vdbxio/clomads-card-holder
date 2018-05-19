@@ -25,7 +25,7 @@ Also included in this file is a box for mold making and a sphere for reference. 
 
 ## STL Mesh for 3D Printing
 
-Thingiverse URL Coming Soon
+TODO: Upload to thingiverse - You can get various versions from the a360 link above for now. Don't print the ball unless you really want to, it's really just for reference.
 
 Download this file if you just want to download and make the thing as it was designed. This requires a 3D printer and knowledge of slicing programs.
 
@@ -52,13 +52,15 @@ Choosing your cement mix appropriately is important if you want to obtain a spec
 
 Additional options for concrete mix include adding sand or stone aggregates which will significantly increase strength. Though, they do give the final product a much more rough surface that can still be sanded, but will kill all your sandpaper and have sex with its mother.
 
-In all honesty though, you will reduce your ability to efficiently use sandpaper on concrete items with sand in their mix and will likely have to move to some sort of grinding wheel if using stone... you will literally be cutting through rock. I am about to start experimenting with diamond grinding pads which are easily available on Amazon.
+In all honesty though, you will reduce your ability to efficiently use sandpaper on concrete items with sand in their mix and will likely have to move to some sort of grinding wheel if you've added gravel... you will literally be cutting through rock. I am about to start experimenting with diamond grinding pads which are easily available on Amazon.
 
 Let us know what your favorite concrete mix is!
 
 ## Finishing Concrete
 
-This section assumes you've used our mix above of Cement, Glass Fiber, and Plasticiser. We've found that wet sanding with mechanical means to be the best. Start low to get rid of high spots (80 grit), this can be done without water and we usually use a handheld random-orbit sander. A medium pass at around 200-300 can be a good middle ground, followed by a pass at 400-600 or higher. If using more powerful equipment you can sometime skip straight to the 400 (eg. Benchtop belt sander). For the detailed inside parts (inner corners, ball holder, magnet), we use a Dremel rotary tool with EZ-Lock sanding pads at 240 grit with a hand sanding at 400-600 to remove excess debris and smooth to final finish. 
+This section assumes you've decided to use our mix above of Cement, Glass Fiber, and Plasticiser.
+
+We sand the outside surfaces with a random orbit sander at 60 grit to cut the 'skin', 220 to smooth it out, and 400 polishes it. The inside flat surfaces go through a similar grit cadence, but with an oscilating tool and triangular diamond pads. The cylidrical cavity for the ball is the hardest to sand. We're still looking for a good mechanical means to do this and have recently settled on a 1-inch dowel or pipe with sand paper around it and going at it by hand.
 
 Feel free to direct any questions about technique, etc. to the issues tab here on GitHub
 
